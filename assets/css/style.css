@@ -3517,6 +3517,57 @@ body.search-show .navbar .form-inline .search-element {
 
 /* end account login */
 
+/*====================
+  DETAIL TICKET CSS
+======================*/
+
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  border-radius: 10px;
+  background: white;
+}
+
+.status-badge {
+  background-color: #f4d03f;
+  color: #000;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+hr {
+  border: 1px solid black;
+}
+
+h4, h5 {
+  font-weight: bold;
+}
+
+.history-box {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: #f8f9fa;
+}
+
+.btn-close-ticket {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-weight: bold;
+  display: block;
+  margin: auto;
+}
+
+.btn-close-ticket:hover {
+  background-color: #c82333;
+}
+
 
 ganti-password
 /*=====================
